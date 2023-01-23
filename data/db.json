@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hoodies and sweaters",
+      "amount": 2000,
+      "description": "made from a medium weight woven cotton twill with partial added rubber coating"
+    },
+    {
+      "id": 2,
+      "name": "Shits",
+      "amount": 970,
+      "description": "X band details in back that elongates over shoulders to the front"
+    },
+    {
+      "id": 3,
+      "name": "Outerwear",
+      "amount": 1000,
+      "description": "Boris Bidjan Saberi SS22 Hybrid Zipper 1.1 ST Jacket"
+    },
+    {
+      "id": 4,
+      "name": "Tops",
+      "amount": 350,
+      "description": "Leon Emanuel Blanck Distortion Short Hoodie"
+    }
+  ]
+}
